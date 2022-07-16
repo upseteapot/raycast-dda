@@ -1,3 +1,0 @@
-
-![alt text](./example.png)
-
